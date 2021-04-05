@@ -1,6 +1,6 @@
 My 
 favorite
-drink
+animal
 is 
 a
-sprite
+lion
