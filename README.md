@@ -1,6 +1,6 @@
 My 
 favorite
-animal 
+drink
 is 
 a
 lion
